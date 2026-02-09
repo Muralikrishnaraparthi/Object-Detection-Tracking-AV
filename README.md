@@ -12,6 +12,10 @@ Here is a comprehensive `README.md` file for your project, based on the code and
 
 **Dataset:** KITTI Vision Benchmark Suite
 
+**Hosting:** Hugging Face SPaces: https://huggingface.co/spaces/Muralikrishnaraparthi/Object-Detection-Tracking-AV 
+
+**Hosting:** Ngrok Spaces: https://6da9-34-125-245-239.ngrok-free.app/
+
 ## 📌 Project Overview
 
 This project implements a real-time computer vision system designed for autonomous vehicles. It utilizes the **YOLOv8** architecture to detect and track objects such as cars, pedestrians, and cyclists in complex driving environments. The system provides a user-friendly web interface powered by **Gradio** for analyzing both static images and driving videos, complete with real-time analytics and performance metrics.
